@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/DynamicsPlugin/obj
+/DynamicsPlugin.Tests/bin/Debug
+/DynamicsPlugin.Tests/obj/Debug
+/packages
+/.vs
+/DynamicsPlugin/bin/Debug
+/DynamicsPlugin/bin/coretools
